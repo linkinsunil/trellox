@@ -1,23 +1,19 @@
-# Social Media App
+# Trellox
 
 ## Dependencies
 
 - ReactJS
-- Redux-Toolkit
-- Axios
-- React-infinite-scroll-component
 - React-router-dom
+- TailwindCSS
 
-## Features
+## Pages
 
 - Login
-- login ? navigate to homepage : show Invalid credentials message
-- Infinite-Scroll feed
-- Load more pages once reach the bottom on scroll
-- Traverse to any single post from feed
-- logged-in ? can comment in post : asks to Login first
-- User and Dashboard-data states managed centrally through Redux-Toolkit
+- Signup
+- Dashboard
+- Project Page
+- Task Modal
 
 ## Demo
 
-[click here for demo](https://social123.vercel.app/)
+[click here for demo](https://trellox.vercel.app/)
