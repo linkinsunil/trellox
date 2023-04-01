@@ -8,9 +8,9 @@
 
 ## Pages
 
-- Login
-- Signup
-- Dashboard
+- Login (not yet functional)
+- Signup (not yet functional)
+- Dashboard (drag and drop non-functional yet)
 - Project Page
 - Task Modal
 
